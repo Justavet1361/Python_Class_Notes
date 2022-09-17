@@ -261,7 +261,7 @@ turtle.done()
 
 #***********************************************************
 
-# Hit the Target Game
+# Hit the Target Game (Gaddis)
 import turtle
 
 # Named constants
@@ -453,3 +453,13 @@ Input methods
     setup()  sets the window size in pixels, the argument is width, height
     title()
     Turtle() creates and returns a new turtle object '''
+
+ References:
+#
+# Gaddis, T. (2018). Starting out with Python (4th Ed) New York, NY: Pearson Educational.  pp 1-74
+#
+# Geeksforgeeks.com (2022, 16 Feb). Python Programming Language.
+#   https://www.geeksforgeeks.org/python-programming-language/ 
+#
+# Silaparasetty, N. (2020, 26 Feb). The Beginner's Guide to Python Turtle. From RealPython.com
+#   https://realpython.com/beginners-guide-python-turtle/
